@@ -1,0 +1,23 @@
+nav {
+  min-height: 10vh;
+  background-color: black;
+  color: white;
+  font-size: 1.2rem;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.links {
+  display: flex;
+  margin-right: 50px;
+}
+.links a {
+  text-decoration: none;
+  color: white;
+  padding: 0.8rem;
+}
+
+h1 {
+  margin-left: 50px;
+}
